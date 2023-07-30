@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alejandro Martínez
+- 👋 Hi, I’m Alejandro 
 - 👀 I’m interested in Java ,Python and other tecnologies that help me to improve my knowledge 
 - 🌱 I’m currently learning everything about java
 - 💞️ I’m looking to collaborate on ...
